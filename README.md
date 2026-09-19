@@ -23,10 +23,6 @@ AddonSpot is a team of browser extension developers. We build cross-browser exte
 
 ## Our projects
 
-| Project | Problem it solves | Browsers |
-|---|---|---|
-| [Extension name](https://github.com/) | One-line description of the problem it fixes | Chrome · Firefox · Edge |
-| [Tool name](https://github.com/) | One-line description of the problem it fixes | Web |
 
 ## Built with
 
